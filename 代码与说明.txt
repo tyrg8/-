@@ -1,0 +1,62 @@
+<!DOCTYPE html><!-- 声明为 HTML5 文档 -->
+<html> <!-- 元素是 HTML 页面的根元素 -->
+<head> 
+<meta charset="utf-8"> <!-- 定义网页编码格式为 utf-8。 -->
+<title>王晓然</title><!-- 元素描述了文档的标题 -->
+</head><!-- 元素包含了文档的元（meta）数据 -->
+<body><!--  元素包含了可见的页面内容 -->
+
+ 
+<div id="header" style="background-color:#86a6e9;width:1000px;"><!-- 定下数值参量作为标题 -->
+<h1 style="margin-bottom:0;"><b><i><div style="text-indent: 10em;">1.各学科关系</i></b></h1></div><!-- 写下标题 -->
+ 
+<div id="content" style="background-color:#e7dc78;height:600px;width:1000px;float:left;"><!-- 插入背景 -->
+<b><img src="./导图.png" alt="subject_text"width="1000" height="600"></b><!-- 插入图片 -->
+
+<div id="header" style="background-color:#86a6e9;width:1000px;"><!-- 定下数值参量作为标题 -->
+    <h1 style="margin-bottom:0;"><b><i><div style="text-indent: 10em;">2.资料大杂烩</i></b></h1></div> <!-- 写下标题 -->
+<div id="content" style="background-color:#eea8d3;height:120px;width:1000px;float:left;"><!-- 插入背景 -->
+    <a href="https://blog.csdn.net/gdengden/article/details/80369458"><font style="font-size:25px"><div style="text-indent: 24em;">计算机视觉</font></a><br>
+    <a href="http://www.cs.xjtu.edu.cn/kxyj/xkfx.htm"><font style="font-size:25px"><div style="text-indent: 24em;">计算机大本营</font></a><br>
+    <a href="https://baike.baidu.com/item/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E7%A7%91/9777618?fr=aladdin"><font style="font-size:25px"><div style="text-indent: 24em;">计算机科学</font></a><br></div>
+        <!-- 插入网址 -->
+    <div id="header" style="background-color:#86a6e9;width:1000px;"><!-- 定下数值参量作为标题 -->
+        <h1 style="margin-bottom:0;"><b><i><div style="text-indent: 10em;">3.对计算机专业的认识</i></b></h1></div> <!-- 写下标题 -->
+<div id="content" style="background-color:#f5e3ef;height:500px;width:1000px;float:left;"><!-- 插入背景 -->
+    <div style="text-indent: 2em;"> <font style="font-size:25px">我对计算机专业的认识 计算机是20世纪的伟大发明之一，
+        它的发明可以说具有划时代的意义，不愧被人们赋予“电脑”的称谓，
+        因为其性能的确能与人脑媲美。高考过后的我们立刻面临着选择自己的专业,
+        在对计算机这门专业的认识还不太清楚的情况下,我选择了这个专业,
+         自从进入大学近两个月来,通过学习计算机导论这门课程,我学会了很多。</font><!-- 规定字体插入文段 -->
+</div>
+ <div style="text-indent: 2em;"><font style="font-size:25px">计算机专业有很多个学习方向，有硬件的，也有软件的。
+ 针对现阶段，硬件方面的发展几乎到达了巅峰，
+ 侧重软件方面的发展比较有前途但不容易学，特别是编写软件。
+ 软件方面的发展包括软件的应用和开发，软件的应用是基础，
+ 软件的开发要靠专门的技术和依靠相关的开发工具。</font><!-- 规定字体插入文段 -->
+</div>
+<div style="text-indent: 2em;"><font style="font-size:25px">计算机科学是对计算机技术的研究，
+    包括硬件技术和软件技术。然而，计算机科学是一个多样化的领域;
+    在当今这个依赖技术的世界中，几乎每一个行业都需要这些技能。就业率高；
+    毕业生起薪高,多领域应用。</font><!-- 规定字体插入文段 -->
+    
+    
+   </div>
+<div id="header" style="background-color:#86a6e9;width:1000px;"><!-- 定下数值参量作为标题 -->
+    <h1 style="margin-bottom:0;"><b><i><div style="text-indent: 10em;">4.学业规划</i></b></h1></div> <!-- 写下标题 -->
+<div id="content" style="background-color:#c4f09c;height:400px;width:1000px;float:left;"><!-- 插入背景 -->
+    <div style="text-indent: 2em;"><font style="font-size:25px">无论我将来从事什么专业，都要学习计算机。
+        计算机不仅仅是工具，更是基础，平台，和思想，在新时代，掌握一定的计算技能为各人之所必需。
+        这不仅仅是在为自己贴金，证明自己的能力，这更是将旧式头脑与思想通过计算思维得到质变的过程。
+        </font><!-- 规定字体插入文段 -->
+    </div>
+       
+       <div style="text-indent: 2em;"><font style="font-size:25px">我准备在掌握课业计算机内容之外，
+        再研究研究Javascript，掌握前端网页的基本设计，对将来的毕业设计与软件应用也会有益处。此外，
+        还要读一本计算的书，不仅仅有计算机的发展与各领域，还要有一些理论内容和计算内容，以至于可以了解计算机的机理。
+        更加深刻认识计算思维。
+        </font><!-- 规定字体插入文段 -->
+    </div>
+       </div>
+</body><!-- body结束 -->
+</html><!-- HTML结束 -->
